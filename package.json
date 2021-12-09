@@ -1,0 +1,11 @@
+{
+  "name": "PdfKit",
+  "version": "1.0.0",
+  "description": "Criando arquivos pdf com o PDFKit",
+  "main": "index.js",
+  "author": "Manuel Bento",
+  "license": "MIT",
+  "dependencies": {
+    "pdfkit": "^0.13.0"
+  }
+}
